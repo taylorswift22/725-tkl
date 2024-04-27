@@ -1,0 +1,9 @@
+https://www.digikey.com/en/products/detail/lumex-opto-components-inc/SSL-LX2573AD/270843
+datasheet: https://www.lumex.com/spec/SSL-LX2573AD.pdf
+
+30 mA forward current
+
+
+2V Forward voltage
+
+3.3V supply
